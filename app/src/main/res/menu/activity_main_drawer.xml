@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homeFragment"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/movieListFragment"
+            android:icon="@drawable/ic_movie"
+            android:title="@string/movies" />
+        <item
+            android:id="@+id/quoteListFragment"
+            android:icon="@drawable/ic_quotes"
+            android:title="@string/quotes" />
+        <item
+            android:id="@+id/characterListFragment"
+            android:icon="@drawable/ic_characters"
+            android:title="@string/characters" />
+        <item
+            android:id="@+id/watchlistFragment"
+            android:icon="@drawable/ic_watchlist"
+            android:title="@string/watchlist" />
+
+        <item
+            android:id="@+id/aboutAppFragment"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about" />
+
+    </group>
+</menu>

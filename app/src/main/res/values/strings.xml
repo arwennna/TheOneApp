@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">The One App</string>
+    <string name="explore">Explore</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="characters">Characters</string>
+    <string name="quotes">Quotes</string>
+    <string name="movies">Movies</string>
+    <string name="duration">Duration:</string>
+    <string name="rotten_tomatoes_rating">Rotten Tomatoes rating:</string>
+    <string name="academy_award_nominations">Academy Award nominations:</string>
+    <string name="academy_award_wins">Academy Award wins:</string>
+    <string name="runtime_in_minutes">Runtime in minutes:</string>
+    <string name="budget_in_millions">Budget in millions:</string>
+    <string name="character">Character</string>
+    <string name="about">About</string>
+    <string name="about_text1">"The One App" is a Wiki-type application developed to showcase data related to the works of J.R.R. Tolkien. It relies on "the-one-api" API, which can be found at <a href="https://the-one-api.dev/">https://the-one-api.dev</a> </string>
+    <string name="about_text2">This application was developed as the final project for my Development of Mobile Applications course at the Faculty of Natural Sciences, Sarajevo.
+    </string>
+    <string name="author">Sara-Farah Materne</string>
+    <string name="professor">Ass. prof. dr Elmedin Selmanović</string>
+    <string name="datum">June 2021.</string>
+
+    <string name="edit">Edit</string>
+</resources>
